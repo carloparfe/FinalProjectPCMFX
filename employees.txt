@@ -1,0 +1,7 @@
+Carlos Paredes¬666666666¬ADMIN¬carlos¬1234
+Sergio Paredes¬666666665¬NONADMIN¬sergio¬1234
+Merche Perez¬666666664¬ADMIN¬merche¬1234
+Pascual Ruiz¬666666663¬NONADMIN¬pascual¬1234
+Lorenzo Hernández¬666666662¬NONADMIN¬lorenzo¬1234
+Nerea Cuenca¬666666661¬ADMIN¬nerea¬1234
+Nina García¬666666660¬ADMIN¬nina¬1234
