@@ -1,6 +1,7 @@
 /*
 PCM - CARLOS PAREDES FERNÁNDEZ
 Main class to launch our program
+GITHUB: https://github.com/carloparfe/FinalProjectPCMFX
  */
 
 package main;

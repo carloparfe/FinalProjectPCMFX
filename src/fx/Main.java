@@ -1,3 +1,9 @@
+/*
+PCM - CARLOS PAREDES FERNÁNDEZ
+Main class to launch the javafx project
+GITHUB: https://github.com/carloparfe/FinalProjectPCMFX
+ */
+
 package fx;
 
 import javafx.application.Application;
